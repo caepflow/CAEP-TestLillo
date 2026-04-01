@@ -1,0 +1,13 @@
+id: c40888fe-813f-46c0-be95-a774d5680f6c
+type: datasource
+name: NewDatasource
+description: NewDatasource description
+mode: ReadWrite
+rootEntity: NewEntity
+includeAllFields: false
+allowPersistence: false
+fields:
+  - name: Id
+  - name: type
+  - name: name
+pageSize: 25

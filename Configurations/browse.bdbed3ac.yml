@@ -15,13 +15,13 @@ page:
   name: browse
   description: Description for new-state
   template: quick-search
-  datasource: users
+  datasource: c40888fe-813f-46c0-be95-a774d5680f6c
   properties:
     columns:
-      - name: ciao
+      - name: name
         label: ciao
         hidden: true
-      - name: ciao2
+      - name: type
         label: ciao2
         hidden: false
         search: false
